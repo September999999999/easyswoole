@@ -1,0 +1,14 @@
+[2018-10-12 13:44:53 $31502.0]	NOTICE	Server is reloading now.
+[2018-10-12 13:44:56 #31501.1]	NOTICE	Server is shutdown now.
+[2018-10-12 14:04:27 #31545.1]	NOTICE	Server is shutdown now.
+[2018-10-12 14:16:42 #3795.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-12 14:16:42 #3795.1]	NOTICE	Server is shutdown now.
+[2018-10-12 14:16:42 $3798.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-10-12 14:16:42 *3808.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-12 14:16:42 *3809.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-12 14:16:42 *3810.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-12 14:16:42 *3811.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-12 14:16:42 *3812.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-12 14:16:42 *3813.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-12 14:16:42 *3814.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-12 14:16:42 *3815.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
